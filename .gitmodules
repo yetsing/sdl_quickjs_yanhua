@@ -1,9 +1,9 @@
-[submodule "external/SDL"]
-	path = external/SDL
-	url = https://github.com/libsdl-org/SDL.git
 [submodule "extern/quickjs"]
 	path = extern/quickjs
 	url = https://github.com/bellard/quickjs.git
 [submodule "extern/plutovg"]
 	path = extern/plutovg
 	url = https://github.com/sammycage/plutovg.git
+[submodule "extern/SDL"]
+	path = extern/SDL
+	url = https://github.com/libsdl-org/SDL.git
